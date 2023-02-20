@@ -11,9 +11,9 @@ title: ""
 
 The objective of these two workshops is to bring together researchers from the **philosophy**, **history**, **psychology** and **pedagogy** of mathematics to present recent advances on **mathematical intuition** from different perspectives and approaches.
 
-The **Nancy workshop** will take place on **30-31 May, 2023**. More information here.
+The **Nancy workshop** will take place on **30-31 May, 2023**. More information [here](/nancy-edition/).
 
-The **Liège workshop** will take place on **6-7-8 November, 2023**. More information here.
+The **Liège workshop** will take place on **6-7-8 November, 2023**. More information [here](/liege-edition/).
 
 # Organizers
 
@@ -22,6 +22,10 @@ The **Liège workshop** will take place on **6-7-8 November, 2023**. More inform
 - [Gerhard Heinzmann](https://poincare.univ-lorraine.fr/fr/membre-titulaire/gerhard-heinzmann) (Université de Lorraine)
 - [Bruno Leclercq](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u015356) (Université de Liège)
 
-# Funders
+# Acknowledgement and Support
 
-These events are made possible by a grant from the Soutien Interrégional à la Recherche of the Grande Région attributed to the organizers.
+These events are made possible by a grant from the [Soutien Interrégional à la Recherche](https://www.granderegion.net/Actualites/2022/Appel-a-candidature-soutien-interregional-a-la-recherche) of the [Grande Région](https://www.granderegion.net/).
+
+{:style="display:block; margin-left:auto; margin-right:auto" width="100"}
+![title](/assets/img/logo-ulorraine.png){:style="display:block; margin-left:auto; margin-right:auto; padding:10px" width="150"}
+![title](/assets/img/logo-uliege.png){:style="display:block; margin-left:auto; margin-right:auto" width="150"}

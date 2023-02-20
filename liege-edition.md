@@ -4,103 +4,43 @@ permalink: "/liege-edition/"
 layout: page
 ---
 
-## Nancy Workshop
+![title](/assets/img/liege.jpg){:style="display:block; margin-left:auto; margin-right:auto" width="900"}
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+# Liège Workshop
 
-## Features
+The **Liège workshop** will take place on **6-7-8 November, 2023** at the Université de Liège.
 
-- supports dark mode on macOS Mojave
-- optional sidebar
-- MathJax support
-- no external ressources
-- included archive page
-- supports pagination
-- feed generation
-- responsive
-- syntax highlighting
-- supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+# Invited Speakers
 
-## Based on
+TBA.
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+# Program
 
-## Installation (jekyll-remote-theme method)
+TBA.
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+# Location
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
+The workshop will take place at the [Philosophy Department](https://www.philo.uliege.be/) of the [Université de Liège](https://www.uliege.be/).
 
-plugins:
-  - jekyll-remote-theme
-```
+# Online Attendance
 
-Note: to enable icons you also need to copy over the `_data` folder.
+We will make it possible to attend the meeting online. Instructions on how to attend will be communicated after registration.
 
-## Config
+# Registration
 
-Your `_config.yml` could for example look like this:
+The event is free but registration for online or physical attendance is mandatory. You can register here.
 
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+# Contact
 
-# Layout
+For any questions, please send an email to yacin dot hamami at uliege dot be.
 
-show_excerpts: true # show article excerpts on the home page
-show_frame: true # adds a gray frame to the site
-show_sidebar: false # show a sidebar instead of the usual header
+# Organizers
 
-# Menu
+- [Andrew Arana](http://poincare.univ-lorraine.fr/fr/membre-titulaire/andrew-arana) (Université de Lorraine)
+- [Yacin Hamami](https://www.yacinhamami.com/) (FNRS, Université de Liège)
+- [Gerhard Heinzmann](https://poincare.univ-lorraine.fr/fr/membre-titulaire/gerhard-heinzmann) (Université de Lorraine)
+- [Bruno Leclercq](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u015356) (Université de Liège)
 
-navigation: # accepts {file, title, url, icon, sidebaricon}
-  - { file: "index.html" }
-  - { file: "README.md" }
+# Acknowledgement and Support
 
-external: # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {
-      title: Mail,
-      icon: envelope,
-      url: "mailto:niklasbuschmann@users.noreply.github.com",
-    }
-  - {
-      title: Github,
-      icon: github,
-      url: "https://github.com/niklasbuschmann/contrast",
-    }
-  - { title: Subscribe, icon: rss, url: "/feed.xml" }
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
-  - jekyll-feed
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+These events are made possible by a grant from the [Soutien Interrégional à la Recherche](https://www.granderegion.net/Actualites/2022/Appel-a-candidature-soutien-interregional-a-la-recherche) of the [Grande Région](https://www.granderegion.net/).
