@@ -1,6 +1,62 @@
-title: Nancy-Liège Workshops <br> on <br> Mathematical Intuition
-logo: /assets/img/poincare.jpg
-description: Two workshops organized in Nancy and Liège.
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-minimal
+# Site wide configuration
+
+title: "The Nancy-Liège Workshops on Mathematical Intuition"
+description: "Website for the Nancy-Liège workshops on mathematical intuition."
+#logo: # 120x120 px default image used for Twitter summary card
+#teaser: # 400x250 px default teaser image used in image archive grid
+locale: en
+url:
+feed:
+  path: atom.xml
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+# Site owner
+owner:
+  name:
+  email:
+  twitter:
+  google:
+    ad-client:
+    ad-slot:
+  bio:
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+  disqus-shortname:
+
+include:
+  - .htaccess
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp
