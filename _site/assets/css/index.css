@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6 { font-weight: 600; }
 
 b, strong, th { font-weight: 600; }
 
-p { text-align: justify; font-size: 1.2em; }
+p { font-size: 1.15em; }
 
 a { color: #68f; text-decoration: inherit; }
 
@@ -30,7 +30,7 @@ blockquote, figure { margin: 1em 0; }
 
 img { margin: .5em 0; }
 
-li { margin: .25em 0; font-size: 1.2em; }
+li { margin: .25em 0; font-size: 1.15em; }
 
 img { border-radius: 2px; max-width: 100%; height: auto; }
 

@@ -7,9 +7,9 @@ title: ""
 
 # About
 
-Mathematical intuition is a longstanding topic of research in the philosophy and history of mathematics.
+**Mathematical intuition** is a longstanding topic of research in the philosophy and history of mathematics.
 
-The objective of these two workshops is to bring together researchers from the philosophy, history, psychology and pedagogy of mathematics to present and discuss recent advances on mathematical intuition. A particular emphasis is put on combining different perspectives.
+The objective of these two workshops is to bring together researchers from the **philosophy**, **history**, **psychology** and **pedagogy** of mathematics to present recent advances on **mathematical intuition** from different perspectives and approaches.
 
 The **Nancy workshop** will take place on **30-31 May, 2023**. More information here.
 
@@ -24,4 +24,4 @@ The **Liège workshop** will take place on **6-7-8 November, 2023**. More inform
 
 # Funders
 
-These events are made possible by a grant from the Soutien Interrégional à la Recherche of the Grande Région.
+These events are made possible by a grant from the Soutien Interrégional à la Recherche of the Grande Région attributed to the organizers.
