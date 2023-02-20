@@ -1,62 +1,42 @@
-# Site wide configuration
-
 title: "The Nancy-Liège Workshops on Mathematical Intuition"
-description: "Website for the Nancy-Liège workshops on mathematical intuition."
-#logo: # 120x120 px default image used for Twitter summary card
-#teaser: # 400x250 px default teaser image used in image archive grid
-locale: en
-url:
-feed:
-  path: atom.xml
+author: "Blog Author"
+description: "Powered by Jekyll + Github Webpages + Contrast"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
 
-# Jekyll configuration
+# Layout
 
-sass:
-  sass_dir: _sass
-  style: compressed
-permalink: /:categories/:title/
-kramdown:
-  toc_levels: 1..2
-highlighter: rouge
+show_excerpts: false # show article excerpts on the home page
+show_frame: false # adds a gray frame to the site
+show_sidebar: false # show a sidebar instead of the usual header
+minimal: false # use a dark header
+
+# Menu
+
+navigation: # accepts {file, title, url, icon, sidebaricon}
+  #  - { file: "index.html" }
+  #  - { file: "README.md" }
+  - { file: "nancy-edition.md" }
+  - { file: "liege-edition.md" }
+
+external: # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {
+      title: Mail,
+      icon: envelope,
+      url: "mailto:niklasbuschmann@users.noreply.github.com",
+    }
+  - {
+      title: Github,
+      icon: github,
+      url: "https://github.com/niklasbuschmann/contrast",
+    }
+  - { title: Subscribe, icon: rss, url: "/feed.xml" }
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
 plugins:
-  - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
-
-# Site owner
-owner:
-  name:
-  email:
-  twitter:
-  google:
-    ad-client:
-    ad-slot:
-  bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
-  disqus-shortname:
-
-include:
-  - .htaccess
-exclude:
-  - "*.less"
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - config
-  - gulpfile.js
-  - lib
-  - log
-  - node_modules
-  - package.json
-  - spec
-  - tmp
