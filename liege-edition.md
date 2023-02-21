@@ -4,7 +4,7 @@ permalink: "/liege-edition/"
 layout: page
 ---
 
-![title](/assets/img/liege.jpg){:style="display:block; margin-left:auto; margin-right:auto" width="900"}
+![title](/assets/img/liege-4.jpg){:style="display:block; margin-left:auto; margin-right:auto" width="800"}
 
 # Liège Workshop
 
@@ -44,3 +44,7 @@ For any questions, please send an email to yacin dot hamami at uliege dot be.
 # Acknowledgement and Support
 
 These events are made possible by a grant from the [Soutien Interrégional à la Recherche](https://www.granderegion.net/Actualites/2022/Appel-a-candidature-soutien-interregional-a-la-recherche) of the [Grande Région](https://www.granderegion.net/).
+
+{:style="display:block; margin-left:auto; margin-right:auto" width="100"}
+![title](/assets/img/logo-ulorraine.png){:style="display:block; margin-left:auto; margin-right:auto; padding:10px" width="150"}
+![title](/assets/img/logo-uliege.png){:style="display:block; margin-left:auto; margin-right:auto" width="150"}

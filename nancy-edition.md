@@ -4,7 +4,7 @@ permalink: "/nancy-edition/"
 layout: page
 ---
 
-![title](/assets/img/nancy-2.jpg){:style="display:block; margin-left:auto; margin-right:auto" width="800"}
+![title](/assets/img/nancy-3.jpg){:style="display:block; margin-left:auto; margin-right:auto" width="800"}
 
 # Nancy Workshop
 
@@ -53,3 +53,7 @@ For any questions, please send an email to yacin dot hamami at uliege dot be.
 # Acknowledgement and Support
 
 These events are made possible by a grant from the [Soutien Interrégional à la Recherche](https://www.granderegion.net/Actualites/2022/Appel-a-candidature-soutien-interregional-a-la-recherche) of the [Grande Région](https://www.granderegion.net/). The Nancy workshop is also supported by the [Archives Henri Poincaré](https://poincare.univ-lorraine.fr/fr) at the [Université de Lorraine](https://www.univ-lorraine.fr/).
+
+{:style="display:block; margin-left:auto; margin-right:auto" width="100"}
+![title](/assets/img/logo-ulorraine.png){:style="display:block; margin-left:auto; margin-right:auto; padding:10px" width="150"}
+![title](/assets/img/logo-uliege.png){:style="display:block; margin-left:auto; margin-right:auto" width="150"}

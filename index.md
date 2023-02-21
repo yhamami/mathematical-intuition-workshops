@@ -1,9 +1,9 @@
 ---
+title: "Home"
 layout: page
-title: ""
 ---
 
-![title](/assets/img/moebius-strip.jpg){:style="display:block; margin-left:auto; margin-right:auto" width="450"}
+![title](/assets/img/poincare.jpg){:style="display:block; margin-left:auto; margin-right:auto" width="800"}
 
 # About
 
