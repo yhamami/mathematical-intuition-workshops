@@ -11,9 +11,9 @@ layout: page
 
 The objective of these two workshops is to bring together researchers from the **philosophy**, **history**, **psychology** and **pedagogy** of mathematics to present recent advances on **mathematical intuition** from different perspectives and approaches.
 
-The **Nancy workshop** will take place on **30-31 May, 2023**. More information [here](/mathematical-intuition-workshops/nancy-edition/).
+The **Nancy workshop** will take place on **May 30-31, 2023**. More information [here](/mathematical-intuition-workshops/nancy-edition/).
 
-The **Liège workshop** will take place on **6-7-8 November, 2023**. More information [here](/mathematical-intuition-workshops/liege-edition/).
+The **Liège workshop** will take place on **November 6-7-8, 2023**. More information [here](/mathematical-intuition-workshops/liege-edition/).
 
 # Organizers
 
