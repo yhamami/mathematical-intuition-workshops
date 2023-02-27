@@ -37,7 +37,7 @@ We will make it possible to attend the meeting online. Instructions on how to at
 
 # Registration
 
-The event is free but registration for online or physical attendance is mandatory. You can register here.
+The event is free but registration for online or physical attendance is mandatory. You can register [here](https://forms.gle/XZnp5yqPMjCcTA4EA).
 
 # Contact
 
