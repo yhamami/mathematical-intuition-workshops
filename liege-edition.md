@@ -12,7 +12,16 @@ The **Liège workshop** will take place on **6-7-8 November, 2023** at the Unive
 
 # Invited Speakers
 
-TBA.
+- **Andrew Arana** (Université de Lorraine)
+- **Paola Cantù** (CNRS, Aix-Marseille Université)
+- **Christophe Eckes** (Université de Lorraine)
+- **Valeria Giardino** (CNRS, Institut Jean Nicod)
+- **Gerhard Heinzmann** (Université de Lorraine)
+- **Matthew Inglis** (Loughborough University)
+- **Véronique Izard** (CNRS, Université Paris Cité)
+- **Jemma Lorenat** (Pitzer College)
+- **Tabea Rohr** (CNRS, Université Paris Cité)
+- **Daniel Usma Gomez** (Université de Lorraine)
 
 # Program
 
@@ -20,7 +29,7 @@ TBA.
 
 # Location
 
-The workshop will take place at the [Philosophy Department](https://www.philo.uliege.be/) of the [Université de Liège](https://www.uliege.be/).
+The workshop will take place in the [salle des professeurs](https://www.campus.uliege.be/cms/c_9200994/fr/la-salle-des-professeurs-location) located in the [main building](https://www.campus.uliege.be/cms/c_1770920/fr/a1-batiment-central-20-aout) of [Université de Liège](https://www.uliege.be/) on [20 Août square](https://goo.gl/maps/pANAdzVn5W2P65sR8?coh=178573&entry=tt) (place du 20 août), 4000 Liège, Belgium.
 
 # Online Attendance
 
@@ -28,7 +37,11 @@ We will make it possible to attend the meeting online. Instructions on how to at
 
 # Registration
 
-The event is free but registration for online or physical attendance is mandatory. You can register here.
+The event is free but registration for online or physical attendance is mandatory. A call for registration will be sent at a later stage.
+
+# Call for Abstracts
+
+Five time slots are reserved for contributed talks (all the talks will be in person, so it is not possible to submit an abstract for an online talk). We welcome abstract submissions on any aspects of mathematical intuition from researchers in the philosophy, history, psychology and pedagogy of mathematics. Priority will be given to abstracts that combine different perspectives on mathematical intuition. Abstracts should not be longer than 250 words. The deadline for abstract submission is **July 1st**. Notification of acceptance will be sent out by **July 15th**. To submit an abstract, please use the following [form](https://forms.gle/vSMNusELhGu9TFBx5).
 
 # Contact
 
@@ -43,7 +56,7 @@ For any questions, please send an email to yacin dot hamami at uliege dot be.
 
 # Acknowledgement and Support
 
-These events are made possible by a grant from the [Soutien Interrégional à la Recherche](https://www.granderegion.net/Actualites/2022/Appel-a-candidature-soutien-interregional-a-la-recherche) of the [Grande Région](https://www.granderegion.net/).
+This event is supported by: the [Soutien Interrégional à la Recherche](https://www.granderegion.net/Actualites/2022/Appel-a-candidature-soutien-interregional-a-la-recherche) of the [Grande Région](https://www.granderegion.net/), the [National Centre for Research in Logic (NCNL/CNRL)](https://www.logic-center.be/), the ULiège research unit [Traverses](https://www.traverses.uliege.be/), and the ULiège [Faculté de Philosophie et Lettres](https://www.facphl.uliege.be/).
 
 {:style="display:block; margin-left:auto; margin-right:auto" width="100"}
 ![title](/assets/img/logo-ulorraine.png){:style="display:block; margin-left:auto; margin-right:auto; padding:10px" width="150"}
