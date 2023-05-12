@@ -29,7 +29,7 @@ TBA.
 
 # Location
 
-The workshop will take place in the [salle des professeurs](https://www.campus.uliege.be/cms/c_9200994/fr/la-salle-des-professeurs-location) located in the [main building](https://www.campus.uliege.be/cms/c_1770920/fr/a1-batiment-central-20-aout) of [Université de Liège](https://www.uliege.be/) on [20 Août square](https://goo.gl/maps/pANAdzVn5W2P65sR8?coh=178573&entry=tt) (place du 20 août), 4000 Liège, Belgium.
+The workshop will take place in the [salle des professeurs](https://www.campus.uliege.be/cms/c_9200994/fr/la-salle-des-professeurs-location) located in the [main building](https://www.campus.uliege.be/cms/c_1770920/fr/a1-batiment-central-20-aout) of the [Université de Liège](https://www.uliege.be/) on [20 Août square](https://goo.gl/maps/pANAdzVn5W2P65sR8?coh=178573&entry=tt) (place du 20 août), 4000 Liège, Belgium.
 
 # Online Attendance
 
