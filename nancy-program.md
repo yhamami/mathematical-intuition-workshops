@@ -25,9 +25,9 @@ layout: page
 
 **Wednesday 31 May 2023**
 
-
-| 9:00—9:30 | Welcome |
+| | |
 | --------- | ---------- |
+| 9:00—9:30 | Welcome |
 | 9:30—10:45 | **Viktor Blåsjö** (Universiteit Utrecht) <br /> _Revisionist history of intuition in mathematics_ |
 | 10:45—11:15 | Coffee Break |
 | 11:15—12:30 | **Yacin Hamami** (FNRS, Université de Liège) <br /> _TBA_ |
