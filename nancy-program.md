@@ -8,7 +8,7 @@ layout: page
 
 **Tuesday 30 May 2023**
 
-| | |
+
 | --------- | ---------- |
 | 9:00—9:30 | Welcome |
 | 9:30—10:45 | **Bruno Leclercq** (Université de Liège) <br /> _TBA_|
@@ -20,12 +20,12 @@ layout: page
 | 15:30—16:45 | **Ofra Rechter** (Tel Aviv University) <br /> _TBA_ |
 | 16:45—17:15 | Coffee Break |
 | 17:15—18:30| **Michael Friedman** (Tel Aviv University) <br /> _Material mathematical models and intuition at the end of the 19th century_| 
-| | |
+
 
 
 **Wednesday 31 May 2023**
 
-| | |
+
 | --------- | ---------- |
 | 9:00—9:30 | Welcome |
 | 9:30—10:45 | **Viktor Blåsjö** (Universiteit Utrecht) <br /> _Revisionist history of intuition in mathematics_ |
@@ -37,7 +37,7 @@ layout: page
 | 15:30—16:45 | **Marie Amalric** (Harvard & Trento) <br /> _Neural bases of math conceptual development_ |
 | 16:45—17:15 | Coffee Break |
 | 17:15—18:30| **David Waszek (ENS Paris)** <br /> _Demarcating a role for non-psychological investigations of the ‘pragmatic’ effects of mathematical representations_ | 
-| | |
+
 
 
 # Abstracts
