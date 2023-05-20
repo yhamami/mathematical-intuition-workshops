@@ -36,7 +36,7 @@ layout: page
 | 15:15—15:30 | Coffee Break |
 | 15:30—16:45 | **Marie Amalric** (Harvard & Trento) <br /> _Neural bases of math conceptual development_ |
 | 16:45—17:15 | Coffee Break |
-| 17:15—18:30| **David Waszek (ENS Paris)** <br /> _Demarcating a role for non-psychological investigations of the ‘pragmatic’ effects of mathematical representations_ | 
+| 17:15—18:30| **David Waszek (ENS Paris)** <br /> _Demarcating a role for non-psychological investigations <br /> of the ‘pragmatic’ effects of mathematical representations_ | 
 
 
 
