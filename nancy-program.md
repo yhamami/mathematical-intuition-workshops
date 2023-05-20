@@ -1,42 +1,43 @@
 ---
-title: "Program"
+title: "Program Nancy Workshop"
 permalink: "/nancy-edition/program/"
 layout: page
 ---
 
-# Program
+# Program for the Nancy Workshop - May 30-31
 
 **Tuesday 30 May 2023**
 
 | | |
 | --------- | ---------- |
 | 9:00—9:30 | Welcome |
-| 9:30—10:45 | **Gabriele Baratelli** (Universität zu Köln) <br /> _Intuition, formalization and history in mathematics—A phenomenological perspective_ |
+| 9:30—10:45 | **Bruno Leclercq** (Université de Liège) <br /> _TBA_|
 | 10:45—11:15 | Coffee Break |
-| 11:15—12:30 | **Bruno Leclercq** (Université de Liège) <br /> _TBA_ |
+| 11:15—12:30 | **Gabriele Baratelli** (Universität zu Köln) <br /> _Intuition, formalization and history in mathematics—A phenomenological perspective_ |
 | 12:30—14:00 | Lunch |
 | 14:00—15:15 | **Vincenzo Di Risi** (CNRS/Université Paris Cité) <br /> _Lambert and Kant on the intuition of axioms_ |
 | 15:15—15:30 | Coffee Break |
 | 15:30—16:45 | **Ofra Rechter** (Tel Aviv University) <br /> _TBA_ |
 | 16:45—17:15 | Coffee Break |
 | 17:15—18:30| **Michael Friedman** (Tel Aviv University) <br /> _Material mathematical models and intuition at the end of the 19th century_| 
+| | |
 
 
 **Wednesday 31 May 2023**
 
-| | |
-| --------- | ---------- |
-| 9:00—9:30 | Welcome |
-| 9:30—10:45 | **Gabriele Baratelli** (Universität zu Köln) <br /> _Intuition, formalization and history in mathematics—A phenomenological perspective_ |
-| 10:45—11:15 | Coffee Break |
-| 11:15—12:30 | **Bruno Leclercq** (Université de Liège) <br /> _TBA_ |
-| 12:30—14:00 | Lunch |
-| 14:00—15:15 | **Vincenzo Di Risi** (CNRS/Université Paris Cité) <br /> _Lambert and Kant on the intuition of axioms_ |
-| 15:15—15:30 | Coffee Break |
-| 15:30—16:45 | **Ofra Rechter** (Tel Aviv University) <br /> _TBA_ |
-| 16:45—17:15 | Coffee Break |
-| 17:15—18:30| **Michael Friedman** (Tel Aviv University) <br /> _Material mathematical models and intuition at the end of the 19th century_| 
 
+| 9:00—9:30 | Welcome |
+| --------- | ---------- |
+| 9:30—10:45 | **Viktor Blåsjö** (Universiteit Utrecht) <br /> _Revisionist history of intuition in mathematics_ |
+| 10:45—11:15 | Coffee Break |
+| 11:15—12:30 | **Yacin Hamami** (FNRS, Université de Liège) <br /> _TBA_ |
+| 12:30—14:00 | Lunch |
+| 14:00—15:15 | **Emmanuel Sander** (Université de Genève) <br /> _The analogical roots of mathematical intuition_ |
+| 15:15—15:30 | Coffee Break |
+| 15:30—16:45 | **Marie Amalric** (Harvard & Trento) <br /> _Neural bases of math conceptual development_ |
+| 16:45—17:15 | Coffee Break |
+| 17:15—18:30| **David Waszek (ENS Paris)** <br /> _Demarcating a role for non-psychological investigations of the ‘pragmatic’ effects of mathematical representations_ | 
+| | |
 
 
 # Abstracts
@@ -78,13 +79,13 @@ Both Lambert and Kant, beginning in the 1760s, fought Leibniz and Wolff's theory
 
 **Michael Friedman (Tel Aviv University): _Material mathematical models and intuition at the end of the 19th century_**
 
-The talk will examine the three-dimensional materials models of the 19th century, which were conceived, calculated, and constructed by mathematicians in England, France, and Germany, in order to illustrate mathematical objects and concepts. This very concrete understanding of mathematical models might be thought as opposing to the more formal-symbolic approaches at the turn of the 19th / 20th century. However, taking a closer look, rather than being opposing to each other, these two mathematical cultures had in fact a more symbiotic relationship. Looking at, among others, Felix Klein and Alexander Brill, who were among the driving forces of construction and acquisition of models during the last quarter of the 19th century, I claim that such models served not only as a means for visualization but also as what can prompt the emergence of new knowledge. However, in the course of these decades, the role intuition played also changed – and with such models I aim to show how intuition as “Anschauung” became closer at that period with palpable visuality, or, in other words, with “Anschaulichkeit”.
+The talk will examine the three-dimensional materials models of the 19th century, which were conceived, calculated, and constructed by mathematicians in England, France, and Germany, in order to illustrate mathematical objects and concepts. This very concrete understanding of mathematical models might be thought as opposing to the more formal-symbolic approaches at the turn of the 19th / 20th century. However, taking a closer look, rather than being opposing to each other, these two mathematical cultures had in fact a more symbiotic relationship. Looking at, among others, Felix Klein and Alexander Brill, who were among the driving forces of construction and acquisition of models during the last quarter of the 19th century, I claim that such models served not only as a means for visualization but also as what can prompt the emergence of new knowledge. However, in the course of these decades, the role intuition played also changed–and with such models I aim to show how intuition as “Anschauung” became closer at that period with palpable visuality, or, in other words, with “Anschaulichkeit”.
 
-**Yacin Hamami** (FNRS, Université de Liège)
+**Yacin Hamami (FNRS, Université de Liège): _TBA_**
 
-**Bruno Leclercq** (Université de Liège)
+**Bruno Leclercq (Université de Liège): _TBA_**
 
-**Ofra Rechter** (Tel Aviv University)
+**Ofra Rechter (Tel Aviv University): _TBA_**
 
 **Emmanuel Sander (Université de Genève): _The analogical roots of mathematical intuition_**
 
