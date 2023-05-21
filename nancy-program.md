@@ -10,8 +10,8 @@ layout: page
 
 
 | --------- | ---------- |
-| 9:00—9:30 | Welcome |
-| 9:30—10:45 | **Bruno Leclercq** (Université de Liège) <br /> _TBA_|
+| 9:00—9:30 | <div style="width:800px">Welcome</div> |
+| 9:30—10:45 | **Bruno Leclercq** (Université de Liège) <br /> _A phenomenological account of mathematical modes of intuition_|
 | 10:45—11:15 | Coffee Break |
 | 11:15—12:30 | **Gabriele Baratelli** (Universität zu Köln) <br /> _Intuition, formalization and history in mathematics—A phenomenological perspective_ |
 | 12:30—14:00 | Lunch |
@@ -83,7 +83,9 @@ The talk will examine the three-dimensional materials models of the 19th century
 
 **Yacin Hamami (FNRS, Université de Liège): _TBA_**
 
-**Bruno Leclercq (Université de Liège): _TBA_**
+**Bruno Leclercq (Université de Liège): _A phenomenological account of mathematical modes of intuition_**
+
+For Edmund Husserl, intuition is opposed to mere symbolic presentation. Knowledge is only possible when meaning intentions are "fulfiled" by some intuition that provides an object in accordance with those intentions. Now, what does that mean in the case of mathematical knowledge? Husserl himself must admit that most of mathematics - both in arithmetics and in geometry - is made of symbolic presentations. Does that mean that it does not deliver any knowledge? Husserl's theory of "manifolds" as objectual counterparts of formal systems is an attempt to answer this question.
 
 **Ofra Rechter (Tel Aviv University): _TBA_**
 
