@@ -15,7 +15,7 @@ The **Nancy workshop** will take place on **30-31 May, 2023** at the Archives He
 - **Marie Amalric** (Harvard & Trento)
 - **Gabriele Baratelli** (Universität zu Köln)
 - **Viktor Blåsjö** (Universiteit Utrecht)
-- **Vincenzo Di Risi** (CNRS/Université Paris Cité)
+- **Vincenzo De Risi** (CNRS/Université Paris Cité)
 - **Michael Friedman** (Tel Aviv University)
 - **Yacin Hamami** (FNRS, Université de Liège)
 - **Bruno Leclercq** (Université de Liège)

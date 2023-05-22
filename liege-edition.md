@@ -43,6 +43,21 @@ The event is free but registration for online or physical attendance is mandator
 
 Five time slots are reserved for contributed talks (all the talks will be in person, so it is not possible to submit an abstract for an online talk). We welcome abstract submissions on any aspects of mathematical intuition from researchers in the philosophy, history, psychology and pedagogy of mathematics. Priority will be given to abstracts that combine different perspectives on mathematical intuition. Abstracts should not be longer than 250 words. The deadline for abstract submission is **July 1st**. Notification of acceptance will be sent out by **July 15th**. To submit an abstract, please use the following [form](https://forms.gle/vSMNusELhGu9TFBx5).
 
+# Scientific Committee
+
+- **Marie Amalric** (Harvard & Trento)
+- **Gabriele Baratelli** (Universität zu Köln)
+- **Viktor Blåsjö** (Universiteit Utrecht)
+- **Vincenzo De Risi** (CNRS/Université Paris Cité)
+- **Michael Friedman** (Tel Aviv University)
+- **Yacin Hamami** (FNRS, Université de Liège)
+- **Bruno Leclercq** (Université de Liège)
+- **Ofra Rechter** (Tel Aviv University)
+- **Emmanuel Sander** (Université de Genève)
+- **Bart Van Kerkhove** (Vrije Universiteit Brussel)
+- **Peter Verdée** (UCLouvain)
+- **David Waszek** (ENS Paris)
+
 # Contact
 
 For any questions, please send an email to yacin dot hamami at uliege dot be.

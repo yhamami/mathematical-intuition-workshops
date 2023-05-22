@@ -31,7 +31,7 @@ layout: page
 | 10:45—11:15 | Coffee Break |
 | 11:15—12:30 | **Yacin Hamami** (FNRS, Université de Liège) <br /> _What role(s) for intuition in rigorous mathematical reasoning?_ |
 | 12:30—14:00 | Lunch |
-| 14:00—15:15 | **Vincenzo Di Risi** (CNRS/Université Paris Cité) <br /> _Lambert and Kant on the intuition of axioms_ |
+| 14:00—15:15 | **Vincenzo De Risi** (CNRS/Université Paris Cité) <br /> _Lambert and Kant on the intuition of axioms_ |
 | 15:15—15:30 | Coffee Break |
 | 15:30—16:45 | **Ofra Rechter** (Tel Aviv University) <br /> _Mathematical intuition in the Kantian tradition_ |
 | 16:45—17:15 | Coffee Break |
@@ -75,7 +75,7 @@ categorial evidence.
 
 Formal mathematics "proved intuition wrong" in cases such as Torricelli's trumpet and Weierstrass's continuous but nowhere differentiable function, it is often said. I argue that these narratives were crafted long after the fact and are poorly supported by contemporary evidence. History thus counters one of the standard arguments against intuition. History also has ideas for what intuition can do for philosophy once exonerated, as intuition's undeserved bum rap has precluded historically rich philosophical perspectives from being pursued. A case in point is intuition-centric accounts of mathematical beauty, which have often been anathema in the last century amid anti-psychologistic sentiments.
 
-**Vincenzo Di Risi (CNRS/Université Paris Cité): _Lambert and Kant on the intuition of axioms_**
+**Vincenzo De Risi (CNRS/Université Paris Cité): _Lambert and Kant on the intuition of axioms_**
 
 Both Lambert and Kant, beginning in the 1760s, fought Leibniz and Wolff's theory of the analyticity of truth. In particular, both philosophers reject the idea that the axioms of mathematics are analytic, and purely logical, consequences of the definitions of the terms involved. Both claim that the axioms of mathematics are instead grounded in an irreducible intuitive act. Their paths diverge considerably, however, regarding the nature and function of the intuition involved in knowing the axioms. The talk will explore these different eighteenth-century German perspectives on the use of intuition in axiomatic thinking.
 
