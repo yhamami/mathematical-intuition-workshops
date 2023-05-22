@@ -15,11 +15,11 @@ layout: page
 | 10:45—11:15 | Coffee Break |
 | 11:15—12:30 | **Gabriele Baratelli** (Universität zu Köln) <br /> _Intuition, formalization and history in mathematics—A phenomenological perspective_ |
 | 12:30—14:00 | Lunch |
-| 14:00—15:15 | **Vincenzo Di Risi** (CNRS/Université Paris Cité) <br /> _Lambert and Kant on the intuition of axioms_ |
+| 14:00—15:15 | **Emmanuel Sander** (Université de Genève) <br /> _The analogical roots of mathematical intuition_ |
 | 15:15—15:30 | Coffee Break |
-| 15:30—16:45 | **Ofra Rechter** (Tel Aviv University) <br /> _TBA_ |
+| 15:30—16:45 | **Marie Amalric** (Harvard & Trento) <br /> _Neural bases of math conceptual development_ |
 | 16:45—17:15 | Coffee Break |
-| 17:15—18:30| **Michael Friedman** (Tel Aviv University) <br /> _Material mathematical models and intuition at the end of the 19th century_| 
+| 17:15—18:30| **David Waszek** (ENS Paris) <br /> _Demarcating a role for non-psychological investigations of the ‘pragmatic’ effects <br /> of mathematical representations_ | 
 
 
 
@@ -30,13 +30,14 @@ layout: page
 | 9:00—9:30 | Welcome |
 | 9:30—10:45 | **Viktor Blåsjö** (Universiteit Utrecht) <br /> _Revisionist history of intuition in mathematics_ |
 | 10:45—11:15 | Coffee Break |
-| 11:15—12:30 | **Yacin Hamami** (FNRS, Université de Liège) <br /> _TBA_ |
+| 11:15—12:30 | **Yacin Hamami** (FNRS, Université de Liège) <br /> _What role(s) for intuition in rigorous mathematical reasoning?_ |
 | 12:30—14:00 | Lunch |
-| 14:00—15:15 | **Emmanuel Sander** (Université de Genève) <br /> _The analogical roots of mathematical intuition_ |
+| 14:00—15:15 | **Vincenzo Di Risi** (CNRS/Université Paris Cité) <br /> _Lambert and Kant on the intuition of axioms_ |
 | 15:15—15:30 | Coffee Break |
-| 15:30—16:45 | **Marie Amalric** (Harvard & Trento) <br /> _Neural bases of math conceptual development_ |
+| 15:30—16:45 | **Ofra Rechter** (Tel Aviv University) <br /> _TBA_ |
 | 16:45—17:15 | Coffee Break |
-| 17:15—18:30| **David Waszek (ENS Paris)** <br /> _Demarcating a role for non-psychological investigations of the ‘pragmatic’ effects <br /> of mathematical representations_ | 
+| 17:15—18:30| **Michael Friedman** (Tel Aviv University) <br /> _Material mathematical models and intuition at the end of the 19th century_| 
+
 
 
 
