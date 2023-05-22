@@ -19,8 +19,7 @@ layout: page
 | 15:15—15:30 | Coffee Break |
 | 15:30—16:45 | **Marie Amalric** (Harvard & Trento) <br /> _Neural bases of math conceptual development_ |
 | 16:45—17:15 | Coffee Break |
-| 17:15—18:30| **David Waszek** (ENS Paris) <br /> _Demarcating a role for non-psychological investigations of the ‘pragmatic’ effects <br /> of mathematical representations_ | 
-
+| 17:15—18:30| **Michael Friedman** (Tel Aviv University) <br /> _Material mathematical models and intuition at the end of the 19th century_| 
 
 
 **Wednesday 31 May 2023**
@@ -34,9 +33,11 @@ layout: page
 | 12:30—14:00 | Lunch |
 | 14:00—15:15 | **Vincenzo Di Risi** (CNRS/Université Paris Cité) <br /> _Lambert and Kant on the intuition of axioms_ |
 | 15:15—15:30 | Coffee Break |
-| 15:30—16:45 | **Ofra Rechter** (Tel Aviv University) <br /> _TBA_ |
+| 15:30—16:45 | **Ofra Rechter** (Tel Aviv University) <br /> _Mathematical intuition in the Kantian tradition_ |
 | 16:45—17:15 | Coffee Break |
-| 17:15—18:30| **Michael Friedman** (Tel Aviv University) <br /> _Material mathematical models and intuition at the end of the 19th century_| 
+| 17:15—18:30| **David Waszek** (ENS Paris) <br /> _Demarcating a role for non-psychological investigations of the ‘pragmatic’ effects <br /> of mathematical representations_ | 
+
+
 
 
 
@@ -90,7 +91,9 @@ As everyone knows, it has been common in mathematics since the turn of the twent
 
 For Edmund Husserl, intuition is opposed to mere symbolic presentation. Knowledge is only possible when meaning intentions are "fulfiled" by some intuition that provides an object in accordance with those intentions. Now, what does that mean in the case of mathematical knowledge? Husserl himself must admit that most of mathematics - both in arithmetics and in geometry - is made of symbolic presentations. Does that mean that it does not deliver any knowledge? Husserl's theory of "manifolds" as objectual counterparts of formal systems is an attempt to answer this question.
 
-**Ofra Rechter (Tel Aviv University): _TBA_**
+**Ofra Rechter (Tel Aviv University): _Mathematical intuition in the Kantian tradition_**
+
+In this talk I consider the question whether a notion of intuition derived from Kant’s philosophy of arithmetic can be mathematical.
 
 **Emmanuel Sander (Université de Genève): _The analogical roots of mathematical intuition_**
 
