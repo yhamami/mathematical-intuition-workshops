@@ -25,7 +25,7 @@ The **Nancy workshop** will take place on **30-31 May, 2023** at the Archives He
 
 # Program
 
-The program is available [here](/nancy-edition/program/).
+The program is available [here](/mathematical-intuition-workshops/nancy-edition/program/).
 
 # Location
 
