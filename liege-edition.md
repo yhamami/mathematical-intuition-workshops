@@ -71,8 +71,10 @@ For any questions, please send an email to yacin dot hamami at uliege dot be.
 
 # Acknowledgement and Support
 
-This event is supported by: the [Soutien Interrégional à la Recherche](https://www.granderegion.net/Actualites/2022/Appel-a-candidature-soutien-interregional-a-la-recherche) of the [Grande Région](https://www.granderegion.net/), the [National Centre for Research in Logic (NCNL/CNRL)](https://www.logic-center.be/), the ULiège research unit [Traverses](https://www.traverses.uliege.be/), and the ULiège [Faculté de Philosophie et Lettres](https://www.facphl.uliege.be/).
+This event is supported by: the [Soutien Interrégional à la Recherche](https://www.granderegion.net/Actualites/2022/Appel-a-candidature-soutien-interregional-a-la-recherche) of the [Grande Région](https://www.granderegion.net/), the [National Centre for Research in Logic (NCNL/CNRL)](https://www.logic-center.be/), the [Fédération Wallonie-Bruxelles](https://www.federation-wallonie-bruxelles.be/), the [Région Grand Est](https://www.grandest.fr/), the ULiège research unit [Traverses](https://www.traverses.uliege.be/), and the ULiège [Faculté de Philosophie et Lettres](https://www.facphl.uliege.be/).
 
 {:style="display:block; margin-left:auto; margin-right:auto" width="100"}
 ![title](/assets/img/logo-ulorraine.png){:style="display:block; margin-left:auto; margin-right:auto; padding:10px" width="150"}
 ![title](/assets/img/logo-uliege.png){:style="display:block; margin-left:auto; margin-right:auto" width="150"}
+![title](/assets/img/logo-fwb-couleur-horizontal.jpeg){:style="display:block; margin-left:auto; margin-right:auto" width="150"}
+![title](/assets/img/region-grand-est.png){:style="display:block; margin-left:auto; margin-right:auto" width="150"}
