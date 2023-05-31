@@ -29,3 +29,5 @@ These events are made possible by a grant from the [Soutien Interrégional à la
 {:style="display:block; margin-left:auto; margin-right:auto" width="100"}
 ![title](/assets/img/logo-ulorraine.png){:style="display:block; margin-left:auto; margin-right:auto; padding:10px" width="150"}
 ![title](/assets/img/logo-uliege.png){:style="display:block; margin-left:auto; margin-right:auto" width="150"}
+![title](/assets/img/logo-fwb-couleur-horizontal.jpeg){:style="display:block; margin-left:auto; margin-right:auto" width="150"}
+![title](/assets/img/region-grand-est.png){:style="display:block; margin-left:auto; margin-right:auto" width="150"}
