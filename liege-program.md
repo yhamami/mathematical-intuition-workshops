@@ -13,13 +13,13 @@ layout: page
 | 9:00—9:30 | Welcome |
 | 9:30—10:40 | **Paola Cantù** (CNRS, Aix-Marseille Université) <br /> _Intuition and Axiomatics: the Case of non-Archimedean Continuity_|
 | 10:40—10:50 | Coffee Break |
-| 10:50—12:00 | **Andrea Ariotto** (Sorbonne Université) <br /> _The Historicization of Mathematical Intuition in Jean Cavaillès' Thought_ |
+| 10:50—12:00 | **Nicolas Michel** (Bergische Universität Wuppertal) <br /> _The Geometrical Gaze: On H.G. Zeuthen’s Holistic Conception of Mathematical Intuition_ |
 | 12:00—13:30 | Lunch |
-| 13:30—14:40 | **Nicolas Michel** (Bergische Universität Wuppertal) <br /> _The Geometrical Gaze: On H.G. Zeuthen’s holistic conception of mathematical intuition_ |
+| 13:30—14:40 | **Jemma Lorenat** (Pitzer College) <br /> _Anxiety, Deceit, and Intuition about Geometrical Figures around 1900_ |
 | 14:40—14:50 | Coffee Break |
-| 14:50—16:00 | **Jemma Lorenat** (Pitzer College) <br /> _Anxiety, Deceit, and Intuition about Geometrical Figures around 1900_ |
+| 14:50—16:00 | **Christophe Eckes** (Université de Lorraine) <br /> _What Part does Rational Intuition Play in Louis Couturat's Reflections on the Ideas <br />  of Number, Magnitude and Order?_ |
 | 16:00—16:10 | Coffee Break |
-| 16:10—17:20| **Christophe Eckes** (Université de Lorraine) <br /> _What Part does Rational Intuition Play in Louis Couturat's Reflections on the Ideas <br />  of Number, Magnitude and Order?_| 
+| 16:10—17:20| **Andrea Ariotto** (Sorbonne Université) <br /> _The Historicization of Mathematical Intuition in Jean Cavaillès' Thought_ | 
 
 
 **Tuesday 7 November 2023**
@@ -31,7 +31,7 @@ layout: page
 | 10:40—10:50 | Coffee Break |
 | 10:50—12:00 | **Valeria Giardino** (CNRS, Institut Jean Nicod) <br /> _Intuition and Imagination in Mathematics_ |
 | 12:00—13:30 | Lunch |
-| 13:30—14:40 | **Faustine Oliva** (Aix-Marseille Université) <br /> _Early Proofs and Attempted Proofs of the Four Color Theorem Include <br /> Figures, from Map Drawings to Graphs_ |
+| 13:30—14:40 | **Faustine Oliva** (Aix-Marseille Université) <br /> _From Maps on Paper to Bits in Computers: Which Proof of the Four Color Theorem is the Most Intuitive?_ |
 | 14:40—14:50 | Coffee Break |
 | 14:50—16:00 | **Andrew Arana** (Université de Lorraine) <br /> _Purity and Intuition_ |
 | 16:00—16:10 | Coffee Break |
@@ -50,7 +50,7 @@ layout: page
 | 14:40—14:50 | Coffee Break |
 | 14:50—16:00 | **Matthew Inglis** (Loughborough University) <br /> _Methods for Eliciting the Mathematical Intuitions of Mathematicians and Students_ |
 | 16:00—16:10 | Coffee Break |
-| 16:10—17:20| **Jessica Lajos** (Utah State University) <br /> _Findings from an Integrative Review of 816 Journal Papers from Top Tier Mathematics Education Journals (ESM, JRME, JMB, ZDM, and IJRUME) with an Exploratory Psychology Literature Sample to Provide an Updated Conceptualization of the Intuition_| 
+| 16:10—17:20| **Jessica Lajos** (Utah State University) <br /> _An Updated Conceptualization of the Intuition Construct for Mathematics Education Research_| 
 
 
 
