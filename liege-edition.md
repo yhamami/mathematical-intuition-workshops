@@ -23,9 +23,19 @@ The **Liège workshop** will take place on **6-7-8 November, 2023** at the Unive
 - **Tabea Rohr** (CNRS, Université Paris Cité)
 - **Daniel Usma Gomez** (Université de Lorraine)
 
+# Contributed Speakers
+
+- **Andrea Ariotto** (Sorbonne Université)
+- **Romain Büchi** (University of Zürich)
+- **Nicolas Michel** (Bergische Universität Wuppertal)
+- **Jessica Lajos** (Utah State University)
+- **Faustine Oliva** (Aix-Marseille Université)
+
+
+
 # Program
 
-TBA.
+The program is available [here](/mathematical-intuition-workshops/liege-edition/program/).
 
 # Location
 
@@ -41,7 +51,7 @@ The event is free but registration for online or physical attendance is mandator
 
 # Call for Abstracts
 
-Five time slots are reserved for contributed talks (all the talks will be in person, so it is not possible to submit an abstract for an online talk). We welcome abstract submissions on any aspects of mathematical intuition from researchers in the philosophy, history, psychology and pedagogy of mathematics. Priority will be given to abstracts that combine different perspectives on mathematical intuition. Abstracts should not be longer than 250 words. The deadline for abstract submission is **July 1st**. Notification of acceptance will be sent out by **July 15th**. To submit an abstract, please use the following [form](https://forms.gle/vSMNusELhGu9TFBx5).
+Five time slots are reserved for contributed talks (all the talks will be in person, so it is not possible to submit an abstract for an online talk). We welcome abstract submissions on any aspects of mathematical intuition from researchers in the philosophy, history, psychology and pedagogy of mathematics. Priority will be given to abstracts that combine different perspectives on mathematical intuition. Abstracts should not be longer than 250 words. The deadline for abstract submission is **July 1st**. Notification of acceptance will be sent out by **July 15th**. To submit an abstract, please use the following [form](https://forms.gle/vSMNusELhGu9TFBx5). [The Call for Abstracts is now closed.]
 
 # Scientific Committee
 
