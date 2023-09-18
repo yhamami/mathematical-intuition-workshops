@@ -31,7 +31,7 @@ layout: page
 | 10:40—10:50 | Coffee Break |
 | 10:50—12:00 | **Valeria Giardino** (CNRS, Institut Jean Nicod) <br /> _Intuition and Imagination in Mathematics_ |
 | 12:00—13:30 | Lunch |
-| 13:30—14:40 | **Faustine Oliva** (Aix-Marseille Université) <br /> _From Maps on Paper to Bits in Computers: Which Proof of the Four Color Theorem is the Most Intuitive?_ |
+| 13:30—14:40 | **Faustine Oliva** (Aix-Marseille Université) <br /> _From Maps on Paper to Bits in Computers: Which Proof of the Four Color Theorem <br /> is the Most Intuitive?_ |
 | 14:40—14:50 | Coffee Break |
 | 14:50—16:00 | **Andrew Arana** (Université de Lorraine) <br /> _Purity and Intuition_ |
 | 16:00—16:10 | Coffee Break |
