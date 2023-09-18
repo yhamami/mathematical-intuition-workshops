@@ -17,9 +17,9 @@ layout: page
 | 12:00—13:30 | Lunch |
 | 13:30—14:40 | **Nicolas Michel** (Bergische Universität Wuppertal) <br /> _The Geometrical Gaze: On H.G. Zeuthen’s holistic conception of mathematical intuition_ |
 | 14:40—14:50 | Coffee Break |
-| 14:50—16:00 | **Jemma Lorenat** (Pitzer College) <br /> _Anxiety, Deceit, and Writing around Figures in Geometry and Topology around 1900_ |
+| 14:50—16:00 | **Jemma Lorenat** (Pitzer College) <br /> _Anxiety, Deceit, and Intuition about Geometrical Figures around 1900_ |
 | 16:00—16:10 | Coffee Break |
-| 16:10—17:20| **Christophe Eckes** (Université de Lorraine) <br /> _What Part does Rational Intuition Play in Louis Couturat's Reflections on the Ideas of Number, Magnitude and Order?_| 
+| 16:10—17:20| **Christophe Eckes** (Université de Lorraine) <br /> _What Part does Rational Intuition Play in Louis Couturat's Reflections on the Ideas <br />  of Number, Magnitude and Order?_| 
 
 
 **Tuesday 7 November 2023**
@@ -31,7 +31,7 @@ layout: page
 | 10:40—10:50 | Coffee Break |
 | 10:50—12:00 | **Valeria Giardino** (CNRS, Institut Jean Nicod) <br /> _Intuition and Imagination in Mathematics_ |
 | 12:00—13:30 | Lunch |
-| 13:30—14:40 | **Faustine Oliva** (Aix-Marseille Université) <br /> _Early Proofs and Attempted Proofs of the Four Color Theorem Include Figures, from Map Drawings to Graphs_ |
+| 13:30—14:40 | **Faustine Oliva** (Aix-Marseille Université) <br /> _Early Proofs and Attempted Proofs of the Four Color Theorem Include <br /> Figures, from Map Drawings to Graphs_ |
 | 14:40—14:50 | Coffee Break |
 | 14:50—16:00 | **Andrew Arana** (Université de Lorraine) <br /> _Purity and Intuition_ |
 | 16:00—16:10 | Coffee Break |
@@ -44,7 +44,7 @@ layout: page
 | 9:00—9:30 | Welcome |
 | 9:30—10:40 | **Gerhard Heinzmann** (Université de Lorraine) <br /> _Intuitive Roots of Mathematical Understanding_|
 | 10:40—10:50 | Coffee Break |
-| 10:50—12:00 | **Tabea Rohr** (CNRS, Paris Cité) <br /> _Mathematical Intuition and Mathematical Understanding_ |
+| 10:50—12:00 | **Tabea Rohr** (CNRS, Paris Cité) <br /> _Frege and Hilbert on Kant‘s Notion of Anschauung_ |
 | 12:00—13:30 | Lunch |
 | 13:30—14:40 | **Romain Büchi** (University of Zürich) <br /> _Intuitive Conjectures_ |
 | 14:40—14:50 | Coffee Break |
