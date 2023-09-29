@@ -18,7 +18,7 @@ The **Liège workshop** will take place on **6-7-8 November, 2023** at the Unive
 - **Valeria Giardino** (CNRS, Institut Jean Nicod)
 - **Gerhard Heinzmann** (Université de Lorraine)
 - **Matthew Inglis** (Loughborough University)
-- **Véronique Izard** (CNRS, Université Paris Cité)
+- **François Charton** (META)
 - **Jemma Lorenat** (Pitzer College)
 - **Tabea Rohr** (CNRS, Université Paris Cité)
 - **Daniel Usma Gomez** (Université de Lorraine)
@@ -81,7 +81,7 @@ For any questions, please send an email to yacin dot hamami at uliege dot be.
 
 # Acknowledgement and Support
 
-This event is supported by: the [Soutien Interrégional à la Recherche](https://www.granderegion.net/Actualites/2022/Appel-a-candidature-soutien-interregional-a-la-recherche) of the [Grande Région](https://www.granderegion.net/), the [National Centre for Research in Logic (NCNL/CNRL)](https://www.logic-center.be/), the [Fédération Wallonie-Bruxelles](https://www.federation-wallonie-bruxelles.be/), the [Région Grand Est](https://www.grandest.fr/), the ULiège research unit [Traverses](https://www.traverses.uliege.be/), and the ULiège [Faculté de Philosophie et Lettres](https://www.facphl.uliege.be/).
+This event is supported by: the [Soutien Interrégional à la Recherche](https://www.granderegion.net/Actualites/2022/Appel-a-candidature-soutien-interregional-a-la-recherche) of the [Grande Région](https://www.granderegion.net/), the [National Centre for Research in Logic (NCNL/CNRL)](https://www.logic-center.be/), the [Fédération Wallonie-Bruxelles](https://www.federation-wallonie-bruxelles.be/), the [Région Grand Est](https://www.grandest.fr/), [Fonds de la Recherche Scientifique (F.R.S.-FNRS)](https://www.frs-fnrs.be/en), the ULiège Administration de la Recherche et du Développement, the ULiège research unit [Traverses](https://www.traverses.uliege.be/), and the ULiège [Faculté de Philosophie et Lettres](https://www.facphl.uliege.be/).
 
 {:style="display:block; margin-left:auto; margin-right:auto" width="100"}
 ![title](/assets/img/logo-ulorraine.png){:style="display:block; margin-left:auto; margin-right:auto; padding:10px" width="150"}
