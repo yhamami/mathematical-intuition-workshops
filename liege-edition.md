@@ -75,7 +75,7 @@ For any questions, please send an email to yacin dot hamami at uliege dot be.
 # Organizers
 
 - [Andrew Arana](http://poincare.univ-lorraine.fr/fr/membre-titulaire/andrew-arana) (Université de Lorraine)
-- [Yacin Hamami](https://www.yacinhamami.com/) (FNRS, Université de Liège)
+- [Yacin Hamami](https://www.yacinhamami.com/) (FNRS, Université de Liège & ETH Zürich) 
 - [Gerhard Heinzmann](https://poincare.univ-lorraine.fr/fr/membre-titulaire/gerhard-heinzmann) (Université de Lorraine)
 - [Bruno Leclercq](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u015356) (Université de Liège)
 

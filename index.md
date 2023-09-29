@@ -18,7 +18,7 @@ The **Liège workshop** will take place on **November 6-7-8, 2023**. More inform
 # Organizers
 
 - [Andrew Arana](http://poincare.univ-lorraine.fr/fr/membre-titulaire/andrew-arana) (Université de Lorraine)
-- [Yacin Hamami](https://www.yacinhamami.com/) (FNRS, Université de Liège)
+- [Yacin Hamami](https://www.yacinhamami.com/) (FNRS, Université de Liège & ETH Zürich)
 - [Gerhard Heinzmann](https://poincare.univ-lorraine.fr/fr/membre-titulaire/gerhard-heinzmann) (Université de Lorraine)
 - [Bruno Leclercq](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u015356) (Université de Liège)
 
