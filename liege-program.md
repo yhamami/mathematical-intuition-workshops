@@ -33,7 +33,7 @@ layout: page
 | 12:00—13:30 | Lunch |
 | 13:30—14:40 | **Faustine Oliva** (Aix-Marseille Université) <br /> _From Maps on Paper to Bits in Computers: Which Proof of the Four Color Theorem <br /> is the Most Intuitive?_ |
 | 14:40—14:50 | Coffee Break |
-| 14:50—16:00 | **Andrew Arana** (Université de Lorraine) <br /> _Purity and Intuition_ |
+| 14:50—16:00 | **Andrew Arana** (Université de Lorraine) <br /> _Intuition from the Perspectives of Kitaro Nishida and Gaisi Takeuti_ |
 | 16:00—16:10 | Coffee Break |
 | 16:10—17:20| **François Charton** (META) <br /> _tba_| 
 
