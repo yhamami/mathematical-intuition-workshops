@@ -89,6 +89,10 @@ On many accounts of mathematical knowledge, intuition is a source. Knowledge of 
 
 **Gerhard Heinzmann (Université de Lorraine): _Intuitive Roots of Mathematical Understanding_**
 
+We show in this talk that intuition in mathematics, if interpreted according to the competence model [Heinzmann 2013]—rather than according to the common perception model—can contribute to a better understanding of mathematical activities as well in the context of justification as in the context of invention.
+
+Thus, intuition can be helpful for a better insight into the difference between stringent and explanatory proofs, it can give hints for overcoming the still discussed taxinomy of eliminatory and non-eliminatory structuralism (Parsons), it can be used for charkterizing thought experiments and for determining the aesthetic component in mathematics.
+
 **Tabea Rohr (CNRS, Paris Cité): _Frege and Hilbert on Kant‘s Notion of Anschauung_**
 
 **Romain Büchi (University of Zürich): _Intuitive Conjectures_**
