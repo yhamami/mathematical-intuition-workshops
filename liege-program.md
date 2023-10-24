@@ -57,7 +57,45 @@ layout: page
 
 # Abstracts
 
-_TBA_
+**Paola Cantù (CNRS, Aix-Marseille Université): _Intuition and Axiomatics: the Case of non-Archimedean Continuity_**
+
+**Nicolas Michel (Bergische Universität Wuppertal): _The Geometrical Gaze: On H.G. Zeuthen’s Holistic Conception of Mathematical Intuition_**
+
+The Danish mathematician Hieronymus Georg Zeuthen (1839-1920) is today mostly remembered for his crucial contributions to algebraic geometry and to the history of mathematics. Lesser known are his forays into the philosophy and psychology of mathematical cognition, and his original defence of a holistic conception of mathematical intuition–views expressed mostly in his twilight years, and in texts written exclusively in Danish.
+
+For Zeuthen, the proper use of intuition–understood as a method for assessing and securing mathematical knowledge–fares advantageously in comparison to the use of symbolic devices, be they computational or logical. What’s more, Zeuthen claimed, intuition plays an essential role in the historical and psychological formation of mathematical objects and theories–knowledge of which algebraic computations or logical derivations only translate, but never outright produce.
+
+This paper aims to articulate the relation between these general claims and Zeuthen’s position at the confluence of various major scientific trends at the turn of the century. One is, of course, the development of enumerative geometry in the second half of the 19th-century–the branch of geometry of which Zeuthen was widely recognized as a leading expert. Others, more surprisingly, include the specific blend of Bergsonian philosophy made popular in Danish academic circles by Harald Høffding, as well as the rise of Gestalt psychology. Lastly, this paper will situate Zeuthen’s conception of mathematical intuition in relation to those, more familiar to us, of Henri Poincaré and L. E. J. Brouwer.
+
+**Jemma Lorenat (Pitzer College): _Anxiety, Deceit, and Intuition about Geometrical Figures around 1900_**
+
+Faced with the potential unreliability of geometrical figures, mathematicians adopted a range of coping strategies. Some avoided figures, others issued general warnings, and some carefully distinguished the distorted from the real in the text around a figure. This latter practice–the emphasis of this talk–characterized the representation of point singularities in algebraic geometry, but could be successfully exported to other areas of geometry (and topology) as demonstrated by the mathematicians training and practicing at Bryn Mawr College at the turn of the twentieth century. By explaining precisely how to read figures, these extra textual tools could be representational, notational, intuitive, and dependable. 
+
+**Christophe Eckes (Université de Lorraine):  _What Part does Rational Intuition Play in Louis Couturat's Reflections on the Ideas of Number, Magnitude and Order?_**
+
+**Andrea Ariotto (Sorbonne Université): _The Historicization of Mathematical Intuition in Jean Cavaillès' Thought_**
+
+**Daniel Usma Gomez (Université de Lorraine): _Intuition as Imagination: The Case of Aquinas' Philosophy of Mathematics_**
+
+**Valeria Giardino (CNRS, Institut Jean Nicod): _Intuition and Imagination in Mathematics_**
+
+**Faustine Oliva (Aix-Marseille Université): _From Maps on Paper to Bits in Computers: Which Proof of the Four Color Theorem is the Most Intuitive?_**
+
+**Andrew Arana (Université de Lorraine): _Intuition from the Perspectives of Kitaro Nishida and Gaisi Takeuti_**
+
+On many accounts of mathematical knowledge, intuition is a source. Knowledge of the infinite, then, poses a problem, for it seems difficult to intuit the infinite. In this talk I will discuss Gaisi Takeuti's account of mathematical knowledge of the infinite. Takeuti was a mathematical logician whose philosophical context drew on the work of Kitaro Nishida, the founder of the Kyoto School of philosophy. I will discuss Nishida’s conception of intuition, show how Takeuti adopted this conception, and explain how Takeuti could use this conception of intuition to give a more expansive account of intuitive knowledge of the infinite than is standard in the philosophy of mathematics since Hilbert.
+
+**François Charton (META):  _tba_**
+
+**Gerhard Heinzmann (Université de Lorraine): _Intuitive Roots of Mathematical Understanding_**
+
+**Tabea Rohr (CNRS, Paris Cité): _Frege and Hilbert on Kant‘s Notion of Anschauung_**
+
+**Romain Büchi (University of Zürich): _Intuitive Conjectures_**
+
+**Matthew Inglis (Loughborough University): _Methods for Eliciting the Mathematical Intuitions of Mathematicians and Students_**
+
+**Jessica Lajos (Utah State University): _An Updated Conceptualization of the Intuition Construct for Mathematics Education Research_**
 
 
 # Organizers
