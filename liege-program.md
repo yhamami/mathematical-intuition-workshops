@@ -19,7 +19,7 @@ layout: page
 | 14:40—14:50 | Coffee Break |
 | 14:50—16:00 | **Christophe Eckes** (Université de Lorraine) <br /> _What Part does Rational Intuition Play in Louis Couturat's Reflections on the Ideas <br />  of Number, Magnitude and Order?_ |
 | 16:00—16:10 | Coffee Break |
-| 16:10—17:20| **Andrea Ariotto** (Sorbonne Université) <br /> _The Historicization of Mathematical Intuition in Jean Cavaillès' Thought_ | 
+| 16:10—17:20| **Andrea Ariotto** (Sorbonne Université) <br /> _Jean Cavaillès’ Conception of Mathematical Intuition: Between Historicization and Symbolic Thought_ | 
 
 
 **Tuesday 7 November 2023**
@@ -35,7 +35,7 @@ layout: page
 | 14:40—14:50 | Coffee Break |
 | 14:50—16:00 | **Andrew Arana** (Université de Lorraine) <br /> _Intuition from the Perspectives of Kitaro Nishida and Gaisi Takeuti_ |
 | 16:00—16:10 | Coffee Break |
-| 16:10—17:20| **François Charton** (META) <br /> _tba_| 
+| 16:10—17:20| **François Charton** (META) <br /> _Can Mathematics be Learned from Examples Only? Experimenting with Language Models_| 
 
 **Wednesday 8 November 2023**
 
@@ -75,7 +75,11 @@ Faced with the potential unreliability of geometrical figures, mathematicians ad
 
 **Christophe Eckes (Université de Lorraine):  _What Part does Rational Intuition Play in Louis Couturat's Reflections on the Ideas of Number, Magnitude and Order?_**
 
-**Andrea Ariotto (Sorbonne Université): _The Historicization of Mathematical Intuition in Jean Cavaillès' Thought_**
+**Andrea Ariotto (Sorbonne Université): _Jean Cavaillès’ Conception of Mathematical Intuition: Between Historicization and Symbolic Thought_**
+
+This talk aims to expose Cavaillès’ notion of mathematical intuition and the link of this notion with the form of historicity on which basis he describes mathematical thought. While many scholars have argued that, in Cavaillès’ philosophy, intuition is historicized, I aim to precisely understand how this historicization of intuition should take place as well as the notions of intuition and historicity it presupposes.
+
+First, I situate Cavaillès’ standpoint at the crossroads of Brunschvicg’s Neo-criticism and Husserlian phenomenology. Then, I present Cavaillès’ critique of the late Husserl’s perspective on the historicity of mathematics, in order to show the notion of historicity Cavaillès seems to have in mind. I suggest that the comparison with late Husserl’s standpoint is partially misleading. Instead, I propose to compare Cavaillès’ view on historicity, based on the analysis of Dedekind’s _Habilitationsschrift_ (1854), with early Husserl’s philosophy of mathematics and, in particular, with the _Göttinger Doppelvortrag_ (1901). The problem of domain extension and generalization of operations through the introduction of ideal elements provides in fact a crucial example to understand the growth of mathematical knowledge Cavaillès aims to capture. In the conclusion of my talk, I show that the kind of historicization of mathematical intuition proposed by Cavaillès leads us to take into account how the symbolic character of mathematical objects relates to the notion of intuition. In Cavaillès, such a discussion stems from the analysis of Hilbert’s philosophy of the sign, which sheds light on Kantian schematism and allows Cavaillès to correct the Kantian notion of intuition. I try to develop some of Cavaillès’ reflections on this point and support them with Cassirer's analysis of the role of signs in mathematical theories.
 
 **Daniel Usma Gomez (Université de Lorraine): _Intuition as Imagination: The Case of Aquinas' Philosophy of Mathematics_**
 
@@ -91,7 +95,9 @@ Early proofs and attempted proofs of the Four Color Theorem include figures rang
 
 On many accounts of mathematical knowledge, intuition is a source. Knowledge of the infinite, then, poses a problem, for it seems difficult to intuit the infinite. In this talk I will discuss Gaisi Takeuti's account of mathematical knowledge of the infinite. Takeuti was a mathematical logician whose philosophical context drew on the work of Kitaro Nishida, the founder of the Kyoto School of philosophy. I will discuss Nishida’s conception of intuition, show how Takeuti adopted this conception, and explain how Takeuti could use this conception of intuition to give a more expansive account of intuitive knowledge of the infinite than is standard in the philosophy of mathematics since Hilbert.
 
-**François Charton (META):  _tba_**
+**François Charton (META):  _Can Mathematics be Learned from Examples Only? Experimenting with Language Models_**
+
+Deep-learning models can be trained, from examples only, to solve problems of symbolic and numeric mathematics. It is tempting to downplay these results as mere memorization of the training examples. Investigating from three cases, symbolic regression, linear algebra, and integer arithmetic, I show that models trained on examples do learn mathematical abstractions, which they use to solve problems.
 
 **Gerhard Heinzmann (Université de Lorraine): _Intuitive Roots of Mathematical Understanding_**
 
