@@ -41,6 +41,8 @@ The program is available [here](/mathematical-intuition-workshops/liege-edition/
 
 The workshop will take place in the [salle des professeurs](https://www.campus.uliege.be/cms/c_9200994/fr/la-salle-des-professeurs-location) located in the [main building](https://www.campus.uliege.be/cms/c_1770920/fr/a1-batiment-central-20-aout) of the [Université de Liège](https://www.uliege.be/) on [20 Août square](https://goo.gl/maps/pANAdzVn5W2P65sR8?coh=178573&entry=tt) (place du 20 août), 4000 Liège, Belgium.
 
+The salle des professeurs is located just above the main entrance hall of the University building (located at number 7 of Place du 20 août). When entering the hall, you should climb the majestic staircase up to the first floor and find the room just in front of you. (There is also a small lift at the right of the staircase it that's more convenient for you.) The room will be open at 9am.
+
 # Online Attendance
 
 We will make it possible to attend the meeting online. Instructions on how to attend will be communicated after registration.
