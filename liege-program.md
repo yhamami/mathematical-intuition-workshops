@@ -11,7 +11,7 @@ layout: page
 
 | --------- | ---------- |
 | 9:00—9:30 | Welcome |
-| 9:30—10:40 | **Paola Cantù** (CNRS, Aix-Marseille Université) <br /> _Intuition and Axiomatics: the Case of non-Archimedean Continuity_|
+| 9:30—10:40 | **Gerhard Heinzmann** (Université de Lorraine) <br /> _Intuitive Roots of Mathematical Understanding_|
 | 10:40—10:50 | Coffee Break |
 | 10:50—12:00 | **Nicolas Michel** (Bergische Universität Wuppertal) <br /> _The Geometrical Gaze: On H.G. Zeuthen’s Holistic Conception of Mathematical Intuition_ |
 | 12:00—13:30 | Lunch |
@@ -42,7 +42,7 @@ layout: page
 
 | --------- | ---------- |
 | 9:00—9:30 | Welcome |
-| 9:30—10:40 | **Gerhard Heinzmann** (Université de Lorraine) <br /> _Intuitive Roots of Mathematical Understanding_|
+| 9:30—10:40 | **Paola Cantù** (CNRS, Aix-Marseille Université) <br /> _Intuition and Axiomatics: the Case of non-Archimedean Continuity_|
 | 10:40—10:50 | Coffee Break |
 | 10:50—12:00 | **Tabea Rohr** (CNRS, Paris Cité) <br /> _Frege and Hilbert on Kant‘s Notion of Anschauung_ |
 | 12:00—13:30 | Lunch |
