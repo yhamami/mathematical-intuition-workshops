@@ -6,9 +6,14 @@ layout: page
 
 ![title](/assets/img/liege-4.jpg){:style="display:block; margin-left:auto; margin-right:auto" width="800"}
 
+
 # Liège Workshop
 
 The **Liège workshop** will take place on **6-7-8 November, 2023** at the Université de Liège.
+
+# Live Streaming
+
+You can follow the conference live [here](https://www.youtube.com/@logiqueetphilosophieanalytique).
 
 # Invited Speakers
 

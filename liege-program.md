@@ -6,6 +6,8 @@ layout: page
 
 # Program for the Liège Workshop - November 6-8
 
+You can follow the conference live [here](https://www.youtube.com/@logiqueetphilosophieanalytique).
+
 **Monday 6 November 2023**
 
 
